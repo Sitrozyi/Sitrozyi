@@ -1,4 +1,3 @@
-# Hi there, I'm SITROZYI
 ### Portfolio
 **[SITROZYI Official Portfolio](https://sitrozyi.github.io)**
 
