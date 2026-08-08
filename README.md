@@ -17,9 +17,3 @@
 ### Connect with me
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Sitrozyi)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sitrozyi)
-
----
-
-###  GitHub Stats
-![Sitrozyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sitrozyi&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sitrozyi&layout=compact&theme=dark)
