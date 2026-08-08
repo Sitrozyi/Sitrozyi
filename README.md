@@ -1,11 +1,11 @@
-# Hi there, I'm SITROZYI! 👋
+# Hi there, I'm SITROZYI
 
-### 🎮 Indie Creator / Web Developer
+### Web Developer
 AIグラフィック × Vibe Coding × Asepriteコマ打ちアニメで、オリジナルTCGなどのWeb・ゲーム開発をしています。
 
 ---
 
-### 🚀 Portfolio
+### Portfolio
 👉 **[SITROZYI Official Portfolio](https://sitrozyi.github.io)**
 
 ---
