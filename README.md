@@ -1,6 +1,6 @@
 # Hi there, I'm SITROZYI
 ### Portfolio
-👉 **[SITROZYI Official Portfolio](https://sitrozyi.github.io)**
+**[SITROZYI Official Portfolio](https://sitrozyi.github.io)**
 
 ---
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -15,8 +15,3 @@
 ---
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/Sitrozyi)
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Sitrozyi)
-
----
-### GitHub Stats
-![Sitrozyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sitrozyi&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sitrozyi&layout=compact&theme=dark)
