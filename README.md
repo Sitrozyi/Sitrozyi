@@ -17,7 +17,11 @@
 
 <details>
 <summary>📸 Click to see my 65cm Moss Terrarium photo</summary>
-<img src="images/moss1.jpg" width="500" alt="65cm Moss Terrarium">
-<img src="images/moss2.jpg" width="500" alt="65cm Moss Terrarium">
-<img src="images/moss3.jpg" width="500" alt="65cm Moss Terrarium">
+<table>
+  <tr
+    <img src="images/moss1.jpg" width="500" alt="65cm Moss Terrarium">
+    <img src="images/moss2.jpg" width="500" alt="65cm Moss Terrarium">
+    <img src="images/moss3.jpg" width="500" alt="65cm Moss Terrarium">
+  </tr>
+
 </details>
