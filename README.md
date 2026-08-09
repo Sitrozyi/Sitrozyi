@@ -18,7 +18,7 @@
 <details>
 <summary>📸 Click to see my 65cm Moss Terrarium photo</summary>
 <table>
-  <tr
+  <tr>
     <img src="images/moss1.jpg" width="500" alt="65cm Moss Terrarium">
     <img src="images/moss2.jpg" width="500" alt="65cm Moss Terrarium">
     <img src="images/moss3.jpg" width="500" alt="65cm Moss Terrarium">
