@@ -19,9 +19,9 @@
 
 <table>
   <tr>
-    <td> width="33%"><img src="画像1のURL" alt="Terrarium 1"></td>
-    <td> width="33%"><img src="画像2のURL" alt="Terrarium 2"></td>
-    <td> width="33%"><img src="画像3のURL" alt="Terrarium 3"></td>
+    <td> width="33%"><img src="images/moss1.jpg" alt="Terrarium 1"></td>
+    <td> width="33%"><img src="images/moss2.jpg" alt="Terrarium 2"></td>
+    <td> width="33%"><img src="images/moss1.jpg" alt="Terrarium 3"></td>
   </tr>
 </table>
 
