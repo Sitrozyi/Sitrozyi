@@ -14,14 +14,15 @@
 ---
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/Sitrozyi)
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Sitrozyi)
-
 <details>
 <summary>📸 Click to see my 65cm Moss Terrarium photo</summary>
+
 <table>
   <tr>
-    <img src="images/moss1.jpg" width="500" alt="65cm Moss Terrarium">
-    <img src="images/moss2.jpg" width="500" alt="65cm Moss Terrarium">
-    <img src="images/moss3.jpg" width="500" alt="65cm Moss Terrarium">
+    <td width="33%"><img src="画像1のURL" alt="Terrarium 1"></td>
+    <td width="33%"><img src="画像2のURL" alt="Terrarium 2"></td>
+    <td width="33%"><img src="画像3のURL" alt="Terrarium 3"></td>
   </tr>
+</table>
 
 </details>
