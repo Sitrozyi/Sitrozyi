@@ -14,3 +14,10 @@
 ---
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/Sitrozyi)
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Sitrozyi)
+
+<details>
+<summary>📸 Click to see my 65cm Moss Terrarium photo</summary>
+
+<img src="images/mosst.jpg" width="500" alt="65cm Moss Terrarium">
+
+</details>
