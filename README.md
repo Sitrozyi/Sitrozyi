@@ -1,5 +1,5 @@
 ### Portfolio
-## **[SITROZYI Official Portfolio](https://https://sitrozyi.com/)**
+## **[SITROZYI Official Portfolio](https://sitrozyi.com/)**
 
 ### Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
