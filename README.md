@@ -7,6 +7,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Tools
+![Zed](https://img.shields.io/badge/ZED-084CCF?style=for-the-badge&logo=zedindustries&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-7D5295?style=for-the-badge&logo=aseprite&logoColor=white)
