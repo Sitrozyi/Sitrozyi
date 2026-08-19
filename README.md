@@ -1,7 +1,7 @@
 ### Portfolio
 ## **[SITROZYI Official Portfolio](https://sitrozyi.com/)**
 
-### Featured OSS Projects
+### OSS Projects
 -**[repomix-semantic-compressor](https://github.com/Sitrozyi/repomix-semantic-compressor)**: AST-powered semantic compressor for Repomix. Reduces LLM prompt tokens by 70%+ while preserving 100% schema integrity and logic.
 
 ### Tech Stack
