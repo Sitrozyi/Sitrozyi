@@ -5,7 +5,7 @@
 - AST-powered semantic context optimizer & **MCP Server** for Repomix. Reduces LLM prompt tokens by 70%+ via multi-language syntax tree pruning while preserving schema integrity and logic.
 
 <p align="center">
-  <img src="images/repomix-compressor-demo.gif" alt="repomix-semantic-compressor demo" width="100%">
+  <img src="images/repomix-compressor-demo2.gif" alt="repomix-semantic-compressor demo" width="100%">
 </p>
 
 ### Tech Stack & Tooling
