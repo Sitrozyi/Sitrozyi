@@ -2,7 +2,13 @@
 ## **[SITROZYI Official Portfolio](https://sitrozyi.com/)**
 
 ### OSS Projects
--**[repomix-semantic-compressor](https://github.com/Sitrozyi/repomix-semantic-compressor)**: AST-powered semantic compressor for Repomix. Reduces LLM prompt tokens by 70%+ while preserving schema integrity and logic.
+- **[repomix-semantic-compressor](https://github.com/Sitrozyi/repomix-semantic-compressor)**: AST-powered semantic compressor for Repomix. Reduces LLM prompt tokens by 70%+ while preserving schema integrity and logic.
+
+<p align="center">
+  <a href="https://github.com/Sitrozyi/repomix-semantic-compressor">
+    <img src="images/repomix-compressor-demo.gif" alt="repomix-semantic-compressor demo" width="100%">
+  </a>
+</p>
 
 ### Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -19,6 +25,7 @@
 ---
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/Sitrozyi)
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Sitrozyi)
+
 <details>
 <summary>📸 Click to see my 65cm Moss Terrarium photo</summary>
 
