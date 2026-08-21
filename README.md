@@ -1,19 +1,17 @@
 ### [Official Portfolio](https://sitrozyi.com/)
 
-### Featured OSS Projects
-- **[repomix-semantic-compressor](https://github.com/Sitrozyi/repomix-semantic-compressor)** — AST-powered semantic context optimizer & **MCP Server** for Repomix. Reduces LLM prompt tokens by 70%+ via multi-language syntax tree pruning while preserving schema integrity and logic.
+### Featured Project (In Active Development)
+- **repomix-semantic-compressor** *(Private Beta / npm release coming soon)* — AST-powered semantic context optimizer & **MCP Server** for Repomix. Reduces LLM prompt tokens by 70%+ via multi-language syntax tree pruning while preserving schema integrity and logic.
 
 <p align="center">
-  <a href="https://github.com/Sitrozyi/repomix-semantic-compressor">
-    <img src="images/repomix-compressor-demo.gif" alt="repomix-semantic-compressor demo" width="100%">
-  </a>
+  <img src="images/repomix-compressor-demo.gif" alt="repomix-semantic-compressor demo" width="100%">
 </p>
 
-### 🛠 Tech Stack & Tooling
+### Tech Stack & Tooling
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Babel AST](https://img.shields.io/badge/Babel_AST-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)
-![Model Context Protocol](https://img.shields.io/badge/MCP-SDK-1E1E1E?style=for-the-badge&logoColor=white)
+![Model Context Protocol](https://img.shields.io/badge/MCP-SDK-1E1E1E?style=for-the-badge&logo=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 
 ### Development Tools
