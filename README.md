@@ -18,15 +18,18 @@ Source Code ──► [@babel/parser] ──► AST Traversal ──► Minimize
                 (~80% token reduction while preserving semantic logic)
 ```
 
-```text
-BENCHMARK:
-104,023 tokens ──► 20,830 tokens (-80.0% prompt footprint)
-* Measured using cl100k_base tokenizer across production TypeScript codebases
-```
+```bash
+$ repomix-compress
+ℹ repomix-output not found. Running "npx repomix" automatically... (done in 1.8s)
 
-<p align="center">
-  <img src="images/repomix-compressor-demo2.gif" alt="repomix-semantic-compressor benchmark terminal demo" width="100%">
-</p>
+✔ Optimized 16 files in 224ms
+
+  LLM Tokens ~:  104,023 → 20,830  (-80.0%)
+  File Size:     386.0 kB →  77.3 kB (-80.0%)
+  Est. Savings:  ~$0.2496 / prompt (Claude 3.5 Sonnet / GPT-4o input rate)
+  Output File:   repomix-optimized.md
+```
+<sub>* Benchmark measured using cl100k_base tokenizer across production TypeScript codebases</sub>
 
 * **Stack:** `Node.js` · `@babel/parser` · `@babel/traverse` · `Model Context Protocol (MCP SDK)` · `Vitest`
 
