@@ -6,7 +6,7 @@ Specializing in AST-level context compression for LLMs, Model Context Protocol (
 
 ---
 
-## 🛠️ Featured Artifacts
+##  Featured Artifacts
 
 ### 1. `repomix-semantic-compressor` *(Private Beta · npm release coming soon)*
 > **AST-powered semantic context optimizer & MCP Server for Repomix.**  
@@ -42,7 +42,7 @@ $ repomix-compress
 
 ---
 
-## 🔬 Technical Focus & Philosophy
+##  Technical Focus & Philosophy
 
 * **AST & Compiler Tooling:** Abstract Syntax Tree parsing, type signature extraction, and MCP server implementations for LLM context optimization.
 * **Real-Time Web Architecture:** Frameworkless state synchronization, WebRTC P2P networking, Canvas VFX, and procedural audio synthesis.
@@ -51,7 +51,7 @@ $ repomix-compress
 ---
 
 <details>
-<summary>🌿 <b>Offline Craftsmanship: 65cm Custom Moss Terrarium</b></summary>
+<summary> <b>Offline Craftsmanship: 65cm Custom Moss Terrarium</b></summary>
 <br>
 <blockquote><i>"Built out of pure DIY spite after seeing a local botanical garden sell tiny terrariums for exorbitant prices. 3x the scale, built for under $70 (10,000JPY). The same cost-optimization and first-principles mindset applied to software and biology."</i></blockquote>
 
