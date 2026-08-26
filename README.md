@@ -53,7 +53,7 @@ $ repomix-compress
 <details>
 <summary>🌿 <b>Offline Craftsmanship: 65cm Custom Moss Terrarium</b></summary>
 <br>
-<blockquote><i>"High attention to detail, both in software architectures and closed biological ecosystems."</i></blockquote>
+<blockquote><i>"Built out of pure DIY spite after seeing a local botanical garden sell tiny terrariums for exorbitant prices. 3x the scale, built for under $70 (~¥10,000). The same cost-optimization and first-principles mindset applied to software and biology."</i></blockquote>
 
 <table>
   <tr>
