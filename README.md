@@ -4,7 +4,7 @@
 <summary><b>Offline Craftsmanship: 65cm Custom Moss Terrarium</b></summary>
 <br>
 
-> *"Built out of pure DIY spite after seeing a local botanical garden sell tiny terrariums for exorbitant prices. 3x the scale, built for under $70 (10,000JPY)."*
+> *"I saw a small terrarium being sold at an exorbitant price at my local botanical garden, thought it was a bit of a rip-off, so I made my own for under $70 (10,000 JPY)"*
 
 <table>
   <tr>
