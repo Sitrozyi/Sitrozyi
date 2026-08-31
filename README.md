@@ -1,4 +1,4 @@
-[![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-sitrozyi.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sitrozyi.com/)
+### [sitrozyi.com](https://sitrozyi.com/)
 
 <details>
 <summary><b>Offline Craftsmanship: 65cm Custom Moss Terrarium</b></summary>
